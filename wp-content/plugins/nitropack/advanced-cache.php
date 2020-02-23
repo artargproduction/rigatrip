@@ -2,10 +2,10 @@
 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 define( 'NITROPACK_ADVANCED_CACHE', true);
-define( 'NITROPACK_ADVANCED_CACHE_VERSION', '1.3.7');
-define( 'NITROPACK_LOGGED_IN_COOKIE', 'wordpress_logged_in_37200e3e865bb5b65174b7fd7159af57' );
+define( 'NITROPACK_ADVANCED_CACHE_VERSION', '/*NP_VERSION*/');
+define( 'NITROPACK_LOGGED_IN_COOKIE', '/*LOGIN_COOKIES*/' );
 
-$nitropack_functions_file = 'D:\wampserver\www\rigatrip\wp-content\plugins\nitropack\functions.php';
+$nitropack_functions_file = '/*NITROPACK_FUNCTIONS_FILE*/';
 
 if (file_exists($nitropack_functions_file)) {
     require_once $nitropack_functions_file;

@@ -1,5 +1,5 @@
 <?php
-define('WP_CACHE', true); // Added by WP Rocket
+define( 'WP_CACHE', true); // Modified by NitroPack
 /**
  * The base configuration for WordPress
  *
