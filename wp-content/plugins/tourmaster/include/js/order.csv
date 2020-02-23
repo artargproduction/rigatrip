@@ -1,0 +1,13 @@
+"Order ID","Tour Name","Contact Name","Contact Email","Contact Number","Customer's Note","Booking Date","Travel Date","Total Price","Traveller Info","Payment Status","Link To Transaction"
+#6,"Carpe Diem – 5 Cabins","1 2",test@test.com,3," ","November 28, 2018","May 5, 2019",$239.80,,Pending,http://localhost/traveltour/wp-admin/admin.php?tour_id&page=tourmaster_order&single=6
+#5,"Carpe Diem – 5 Cabins","Test2 Test3",nao.null@gmail.com,1123," ","December 12, 2018","May 5, 2019",$239.80,,"Deposit Paid",http://localhost/traveltour/wp-admin/admin.php?tour_id&page=tourmaster_order&single=5
+#4,"Croatia – Island Hopper from Split – Luxury & Comfortable Yacht – 5 Days 4 Nights","Test2 Test3",nao.null@gmail.com,1123,toadAY,"October 20, 2018","October 21, 2018","$4,251.00","mr a a 12-15 b  
+ms c c  15-18 d ",Pending,http://localhost/traveltour/wp-admin/admin.php?tour_id&page=tourmaster_order&single=4
+#3,"Tahiti Snorkel Sailing Charter – Day Tour","Test Test",nao.null@gmail.com,1123," ","October 18, 2018","November 30, 2018",$937.40,"mr 1 2 1122  15-18 1  
+mrs 3 4 3344 12-15 4  
+mr 5 6 5566 12-15 6 ",Pending,http://localhost/traveltour/wp-admin/admin.php?tour_id&page=tourmaster_order&single=3
+#2,"Croatia – Island Hopper from Split – Luxury & Comfortable Yacht – 5 Days 4 Nights","Test Mod 55 Test",nao.null@gmail.com,1123,"Mod 223","September 14, 2018","September 30, 2018","$7,760.80","mr 1 2 Age 3  
+mr 1 2 Age 3  
+mr 1 2 Age 3  
+mr 1 2 Age 3 ",Pending,http://localhost/traveltour/wp-admin/admin.php?tour_id&page=tourmaster_order&single=2
+#1,"Croatia – Island Hopper from Split – Luxury & Comfortable Yacht – 5 Days 4 Nights","Test Test",nao.null@gmail.com,1123," ","August 24, 2018","August 26, 2018","$1,962.00","mr 1 2 12-15 3 ",Departed,http://localhost/traveltour/wp-admin/admin.php?tour_id&page=tourmaster_order&single=1
